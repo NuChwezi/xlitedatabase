@@ -13,7 +13,7 @@ public class DBHelper extends SQLiteOpenHelper {
 	public static final String DATABASE_NAME = "dictionary";
 	public static final String ROWID = "_id";
 
-	public static final String TAG = "DRAMON";
+	public static final String TAG = "XLDB";
 	private static final int DATABASE_VERSION = 1;
 
 	// SHOPPINGLIST TABLE
